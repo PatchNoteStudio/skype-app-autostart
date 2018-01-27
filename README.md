@@ -26,7 +26,7 @@ Now the Windows 10 App of Skype start directly when you after starting windows.
 #### Why did you created this tool?
 The tool was needed in my office after the old Skype Desktop version did not work properly anymore. So they switch to the Windows 10 App Version but this version don't pop up on startup. The users still wanted to have Skype open at windows startup. This option is not available on the Skype app for Windows 10. The tool is for the people who do not want to deal with the cmd and just search a tool which do the work for them. If you know how to use the cmd then read the point *Without this Tool*
 #### The Skype Desktop Version starts instead of the Skype Windows 10 App. How can I change it?
-You need to change the default app for the "SKYPE" protocol. To get there, press Windows-I to open the Settings app on a machine running Windows 10, and go to System > Default Apps afterwards.
+You need to change the default app for the "SKYPE" protocol. To get there, press Windows-I to open the Settings app on a machine running Windows 10, and go to System > Default Apps afterwards. Then go to the "choose default apps by protocol" configuration page. Search for the "SKYPE" protocol and change it to the Skype App.
 
 
 ## Credits
