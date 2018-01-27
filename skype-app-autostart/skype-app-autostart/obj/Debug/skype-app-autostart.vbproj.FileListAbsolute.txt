@@ -1,0 +1,10 @@
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\bin\Debug\skype-app-autostart.exe.config
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\bin\Debug\skype-app-autostart.exe
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\bin\Debug\skype-app-autostart.pdb
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\bin\Debug\skype-app-autostart.xml
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\obj\Debug\skype_app_autostart.Resources.resources
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\obj\Debug\skype_app_autostart.Form1.resources
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\obj\Debug\skype-app-autostart.vbproj.GenerateResource.Cache
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\obj\Debug\skype-app-autostart.exe
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\obj\Debug\skype-app-autostart.xml
+c:\users\marco\documents\visual studio 2015\Projects\skype-app-autostart\skype-app-autostart\obj\Debug\skype-app-autostart.pdb
