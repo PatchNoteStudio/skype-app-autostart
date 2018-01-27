@@ -28,4 +28,10 @@ The tool was needed in my office after the old Skype Desktop version did not wor
 #### The Skype Desktop Version starts instead of the Skype Windows 10 App. How can I change it?
 You need to change the default app for the "SKYPE" protocol. To get there, press Windows-I to open the Settings app on a machine running Windows 10, and go to System > Default Apps afterwards.
 
-Made by Marco Sadowski. Check out my [Page](http://patchnotestudio.com/) or my [Twitter](https://twitter.com/MarcoSadowski)
+
+## Credits
+
+Made by Marco Sadowski. 
+Check out my [Page](http://patchnotestudio.com/) or my [Twitter](https://twitter.com/MarcoSadowski)
+
+The program icon is from [Icons8](https://icons8.com/)
