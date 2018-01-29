@@ -8,7 +8,7 @@ This tool add the Skype App for Windows 10 to the Startup so that Skype opens di
 2. Open this tool and press "Add the Skype App to the Startup"
 3. Then Press "Test it" - On the first startup maybe you will be ask which program should start as a default application. Just check the Skype Windows 10 App and mark the box so that Windows should remember your decision.
 
-Now the Windows 10 App of Skype start directly when you after starting windows.
+Now the Windows 10 App of Skype start directly after starting windows.
 
 ## Without this Tool
 1. press Windows Button + R
@@ -19,7 +19,7 @@ Now the Windows 10 App of Skype start directly when you after starting windows.
 "start Skype:"
 6. now save and test the .cmd file. On the first startup maybe you will be ask which program should start as a default application. Just check the Skype Windows 10 App and mark the box so that Windows should remember your decision.
 
-Now the Windows 10 App of Skype start directly when you after starting windows.
+Now the Windows 10 App of Skype start directly after starting windows.
 
 ## FAQ
 
