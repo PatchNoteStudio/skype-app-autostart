@@ -29,11 +29,12 @@ Partial Class Form1
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
         '
-        Me.Label1.Location = New System.Drawing.Point(12, 9)
+        Me.Label1.Location = New System.Drawing.Point(12, 5)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(225, 108)
         Me.Label1.TabIndex = 0
@@ -61,7 +62,7 @@ Partial Class Form1
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(207, 130)
+        Me.Button3.Location = New System.Drawing.Point(207, 160)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(38, 23)
         Me.Button3.TabIndex = 3
@@ -71,7 +72,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(19, 134)
+        Me.Label2.Location = New System.Drawing.Point(19, 164)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(130, 13)
         Me.Label2.TabIndex = 4
@@ -80,18 +81,29 @@ Partial Class Form1
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
-        Me.LinkLabel1.Location = New System.Drawing.Point(21, 149)
+        Me.LinkLabel1.Location = New System.Drawing.Point(21, 179)
         Me.LinkLabel1.Name = "LinkLabel1"
         Me.LinkLabel1.Size = New System.Drawing.Size(94, 13)
         Me.LinkLabel1.TabIndex = 5
         Me.LinkLabel1.TabStop = True
         Me.LinkLabel1.Text = "Find me on Twitter"
         '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(54, 138)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(133, 23)
+        Me.Button4.TabIndex = 6
+        Me.Button4.Text = "Delete it"
+        Me.Button4.UseVisualStyleBackColor = True
+        Me.Button4.Visible = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(257, 164)
+        Me.ClientSize = New System.Drawing.Size(257, 198)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.LinkLabel1)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Button3)
@@ -104,7 +116,7 @@ Partial Class Form1
         Me.MinimizeBox = False
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Skype App Autostart"
+        Me.Text = "Skype App Autostart v2"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -116,4 +128,5 @@ Partial Class Form1
     Friend WithEvents Button3 As Button
     Friend WithEvents Label2 As Label
     Friend WithEvents LinkLabel1 As LinkLabel
+    Friend WithEvents Button4 As Button
 End Class
