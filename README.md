@@ -1,7 +1,7 @@
 # Skype App Autostart
 This tool add the Skype App for Windows 10 to the Startup so that Skype opens directly when you boot your pc. Unfortunately, it is not possible to open a Windows 10 App on startup. It's still possible with this little trick.
 
-## [Download current version (v1)](https://github.com/MarcoPNS/skype-app-autostart/blob/master/Release/skype_app_autostart_v1.zip?raw=true)
+## [Download current version (v2)](https://github.com/MarcoPNS/skype-app-autostart/blob/master/Release/skype_app_autostart_v2.zip?raw=true)
 
 ## With this Tool
 1. Download the current version of this tool
